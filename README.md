@@ -16,7 +16,7 @@ This project builds on the repository [ENPM661 Project 5](https://github.com/Bri
   
 ### Performance Graphs
 #### 1. **RRT Performance**
-  - ![RRT Performance](./assets/rrt_collisions.png)
+  - ![RRT Performance](./assets/RRT_collisions.png)
     
 #### 2. **A* Performance**
 ![A* Performance](./assets/Astar_collisions.png)
