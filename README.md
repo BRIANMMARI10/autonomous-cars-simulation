@@ -11,8 +11,9 @@ This project builds on the repository [ENPM661 Project 5](https://github.com/Bri
 - **Sky View Mode**:
   - Added a new camera mode that provides a fixed, bird's-eye view of the entire track for better visualization of simulations.
   
-- **Algorithm Simulations**:
-  - Ran simulations for other grid-based planners (A*, Dijkstra, BFS, DFS) and evaluated their performance across different number of simulations
+- **Algorithm Simulations & Performance Metrics**:
+  - Wrote a collision detection function to evaluate and characterize the performance of each algorithm
+  - Conducted  simulations across multiple grid-based planners (A*, Dijkstra, BFS, DFS) and assessed their behavior over a ten simulation runs
   
 ### Performance Graphs
 #### 1. **RRT Performance**
