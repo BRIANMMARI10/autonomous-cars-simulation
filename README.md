@@ -14,10 +14,10 @@ This project builds on the repository [ENPM661 Project 5](https://github.com/Bri
 - **Algorithm Simulations**:
   - Ran simulations for other grid-based planners (A*, Dijkstra, BFS, DFS) and evaluated their performance across different number of simulations
   - ![RRT Performance](./assets/rrt_collisions.png)
-  - ![A* Performance](./assets/Astar_collisions.pn)
-  - ![Dijkstra Performance](./assets/Dijkstra_collisions.pn)
-  - ![Breadth First Search Performance](./assets/BFS_collisions.pn)
-  - ![Depth-First Search Performance](./assets/DFS_collisions.pn)
+  - ![A* Performance](./assets/Astar_collisions.png)
+  - ![Dijkstra Performance](./assets/Dijkstra_collisions.png)
+  - ![Breadth First Search Performance](./assets/BFS_collisions.png)
+  - ![Depth-First Search Performance](./assets/DFS_collisions.png)
 
 - **Next Steps:
   - Use Reinforcement Learning to fine-tune parameters for all the various path-planning algorithms I implemented. 
